@@ -1,7 +1,6 @@
 ﻿﻿<!-- prettier-ignore-start -->
 
 # Contributors
-- [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Andrea](https://github.com/andrea-genovese)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
@@ -9,6 +8,7 @@
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Xuan Li](https://github.com/mowangblog)
 - [Amara](https://github.com/hereisamara)
+- [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Vivek Shah](https://github.com/viveknshah)
